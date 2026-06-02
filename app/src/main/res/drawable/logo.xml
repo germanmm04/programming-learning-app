@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Círculo de fondo -->
+    <path
+        android:fillColor="#58CC02"
+        android:pathData="M54,0C24.18,0 0,24.18 0,54s24.18,54 54,54 54,-24.18 54,-54S83.82,0 54,0z"/>
+    
+    <!-- Símbolo de código -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,38L30,54l8,16h8l-8,-16l8,-16H38z"/>
+    
+    <!-- Símbolo de código (espejo) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,38L62,54l8,16h8l-8,-16l8,-16H70z"/>
+    
+    <!-- Línea central -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38v32h4V38H54z"/>
+</vector> 

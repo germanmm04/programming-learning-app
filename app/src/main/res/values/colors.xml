@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#48AAF4</color>
+    <color name="background_app">#0D1824</color>
+    <color name="bkgn_button">#44FF00</color>
+    <color name="colorFuente2">#383843</color>
+    <color name="colorFuente1">#383843</color>
+    <color name="grisClaro">#6B6D81</color>
+    <color name="seleccionado">#48AAF4</color>
+</resources>
