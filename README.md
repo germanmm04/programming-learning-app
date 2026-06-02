@@ -38,10 +38,15 @@ The goal of this application is to help beginners learn programming in an engagi
 ##  Screenshots
 Add images of the application here:
 
-![Home Screen](images/home.png)
-![Lesson Screen](images/lesson.png)
-![Quiz Screen](images/quiz.png)
-
+![Start Screen](imagesstart_screen.png)
+![Main Menu](images/main_menu.png)
+![Register Screen](images/register_screen.png)
+![Register Screen2](images/register_screen2.png)
+![Register Screen3](images/register_screen3.png)
+![Register Screen4](images/register_screen4.png)
+![Register Screen5](images/register_screen5.png)
+![Register Screen6](images/register_screen6.png)
+![Lesson Screen](images/lesson_screen.png)
 ---
 
 ##  How to Run the Project
